@@ -1,0 +1,6 @@
+Backend Setup:
+1. pip install flask flask_cors pymongo
+2. python3 app.py
+
+Frontend Setup
+1. yarn install && yarn start
